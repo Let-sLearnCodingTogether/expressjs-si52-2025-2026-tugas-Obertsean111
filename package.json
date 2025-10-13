@@ -1,0 +1,28 @@
+{
+    "name": "expressjs-si52-2025-2026-tugas-obertsean111",
+    "version": "1.0.0",
+    "main": "app.js",
+    "scripts": {
+        "dev": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Let-sLearnCodingTogether/expressjs-si52-2025-2026-tugas-Obertsean111.git"
+    },
+    "type": "module",
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Let-sLearnCodingTogether/expressjs-si52-2025-2026-tugas-Obertsean111/issues"
+    },
+    "homepage": "https://github.com/Let-sLearnCodingTogether/expressjs-si52-2025-2026-tugas-Obertsean111#readme",
+    "description": "",
+    "dependencies": {
+        "ejs": "^3.1.10",
+        "express": "^5.1.0"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    }
+}
